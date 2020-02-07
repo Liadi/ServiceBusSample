@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Project1": {
+      "commandName": "Project",
+      "commandLineArgs": "3",
+      "environmentVariables": {
+        "Key": "Value",
+        "ConnectionString": "Endpoint=sb://osupd-awe-adjunct-sb1.servicebus.windows.net/;SharedAccessKeyName=Manage;SharedAccessKey=aAlQNZhCb9B6AKPCTcHIDlZOywMBdrC9A4PNVvMj/0M=;"
+      }
+    }
+  }
+}
